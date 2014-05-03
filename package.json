@@ -1,0 +1,35 @@
+{
+ "name": "couchdb-reflect",
+ "description": "Complete set of tools for synchronizing an object/arrays with CouchDB documents, views, and managing users or security documents. Works both in the browser and in node.js",
+ "version": "0.0.1",
+ "homepage": "http://cosmosio.github.com/couchdb-reflect/",
+ "licenses": [{
+  "type":"MIT",
+  "url":"https://raw.github.com/cosmosio/couchdb-reflect/master/LICENSE"
+ }],
+ "files": [
+ 	"src",
+ 	"LICENSE"
+ ],
+ "author": "Olivier Scherrer <pode.fr@gmail.com>",
+ "dependencies": {
+
+  },
+ "keywords": ["CouchDB", "synch", "view", "document", "bulk", "database", "driver"],
+ "repository": {
+  "type": "git",
+  "url": "git@github.com:cosmosio/couchdb-reflect.git"
+ },
+ "bugs": {
+  "url": "https://github.com/cosmosio/couchdb-reflect/issues"
+ },
+ "engines": {
+ 	"node":">= 0.8.0"
+ },
+ "main": "",
+ "scripts": {
+ 	"test": "mocha"
+ },
+ "private": true
+
+}

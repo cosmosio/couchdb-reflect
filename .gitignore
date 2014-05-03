@@ -1,0 +1,4 @@
+**/.DS_Store
+couchdb.stderr
+couchdb.stdout
+node_modules/
